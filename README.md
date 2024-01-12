@@ -1,4 +1,4 @@
-# Sistema de medicion de temperatura con filtro pasa bajos sobre sistema operativo de tiempo real
+# Sistema de medicion de temperatura implementado en sistema operativo de tiempo real
 
 Aplicación de un sistema operativo de tiempo real en un sistema embebido. Simulación de un sistema de control de temperatura con un filtro pasa bajos. Comunicación UART con una computadora para visualizar el estado del sistema y cambiar el coeficiente de filtrado.
 
